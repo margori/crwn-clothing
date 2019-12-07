@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crwn-clothing/static/css/main.21943c5e.chunk.css",
+    "main.js": "/crwn-clothing/static/js/main.8472f122.chunk.js",
+    "main.js.map": "/crwn-clothing/static/js/main.8472f122.chunk.js.map",
+    "runtime-main.js": "/crwn-clothing/static/js/runtime-main.01128f07.js",
+    "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.01128f07.js.map",
+    "static/js/2.4132db81.chunk.js": "/crwn-clothing/static/js/2.4132db81.chunk.js",
+    "static/js/2.4132db81.chunk.js.map": "/crwn-clothing/static/js/2.4132db81.chunk.js.map",
+    "index.html": "/crwn-clothing/index.html",
+    "precache-manifest.c6f50a9364c6161df5899be1268ff079.js": "/crwn-clothing/precache-manifest.c6f50a9364c6161df5899be1268ff079.js",
+    "service-worker.js": "/crwn-clothing/service-worker.js",
+    "static/css/main.21943c5e.chunk.css.map": "/crwn-clothing/static/css/main.21943c5e.chunk.css.map",
+    "static/js/2.4132db81.chunk.js.LICENSE": "/crwn-clothing/static/js/2.4132db81.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01128f07.js",
+    "static/js/2.4132db81.chunk.js",
+    "static/css/main.21943c5e.chunk.css",
+    "static/js/main.8472f122.chunk.js"
+  ]
+}
