@@ -4,8 +4,8 @@ import MenuItem from "../menu-item/menu-item.component";
 import './menu.styles.scss';
 
 class Menu extends React.Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
 
         this.state = {
             section: [
@@ -48,8 +48,8 @@ class Menu extends React.Component {
     render() {
         return (
             <div className="menu">
-                {this.state.section.map(({title, imageUrl, id, size}) => (
-                    <MenuItem key={id} title={title} imageUrl={imageUrl} size={size}/>
+                {this.state.section.map(({id, ...otherSectionProps}) => (
+                    <MenuItem key={id} {...otherSectionProps}/>
                 ))}
             </div>
         );
